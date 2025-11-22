@@ -1,0 +1,7 @@
+{
+  "name": "Tonus",
+  "description": "A minimalist emotional health tracker using real-time voice analysis and liquid visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
